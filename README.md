@@ -1,7 +1,7 @@
 # Automated Coastline Extraction using Edge Detection Algorithms
 This repository contains the code required to reproduce the results in the conference paper:
 
-> To update
+O’Sullivan, C., Coveney, S., Monteys, X. and Dev, S., 2023, July. Automated coastline extraction using edge detection algorithms. In IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium (pp. 4135-4138). IEEE. [https://arxiv.org/abs/2405.11494](https://arxiv.org/abs/2405.11494)
 
 This code is only for academic and research purposes. Please cite the above paper if you intend to use whole/part of the code. 
 
